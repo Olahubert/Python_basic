@@ -1,0 +1,10 @@
+"hello world"
+print("2")
+print("Olawale Hubert")
+print("Nigeria","Ghana","USA")  
+print('Olawale Hubert')
+print(145)
+print(1,2,3,4,5,6,7,8.9,10)
+print("Hello world")
+print(2)
+print(1,2,3,4,5,6,7,8,9,10)
